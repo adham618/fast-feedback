@@ -8,11 +8,9 @@ const defaultMeta = {
   siteName: 'Fast Feedback',
   description:
     'Fast Feedback with Next.js, Tailwind CSS, and TypeScript with Absolute Import, Seo, Link component, pre-configured with Husky',
-  /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
-  url: 'https://fastfeedback-project.vercel.app/',
+  url: 'https://fast-feedback-flax.vercel.app',
   type: 'website',
   robots: 'follow, index',
-  /** No need to be filled, will be populated with openGraph function */
   image: '',
 };
 
